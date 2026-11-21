@@ -26,14 +26,14 @@ Bring Contracts mode back to life. Create contracts, save them, replay them and 
 
 1. Download `Hitman-Absolution-Contracts-Launcher_v1.zip` from the **Releases** page and unzip it anywhere.
 2. Run `Hitman-Absolution-Contracts-Launcher_v1.exe`. A short tutorial appears the first time.
-3. Check the game folder. It is found automatically; if not, press **Browse** and pick the folder that contains `HMA.exe`.
+3. Press **Browse** and pick the folder that contains `HMA.exe`.
 4. Press **PLAY**, then choose **Contracts** in the game.
 
 Keep the launcher window open while you play. It is the Contracts server, and closing it stops Contracts mode.
 
 ## Online sharing and privacy
 
-Sharing is **off by default**. When you turn on **Share contracts online**, your contracts (with your Steam name and Steam ID) are sent to a shared server hosted on Cloudflare, and you receive contracts made by other players. You can turn it off at any time. Do not make contracts you do not want others to see.
+Sharing is **off by default**. When you turn on **Share contracts online**, your contracts (with your Steam name and Steam ID) are sent to a shared server hosted on Cloudflare, and you receive contracts made by other players. You can turn it off at any time.
 
 ## Troubleshooting
 
