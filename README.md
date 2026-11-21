@@ -1,5 +1,7 @@
 # Hitman: Absolution – Contracts Mode Launcher
 
+<img width="962" height="572" alt="photo_2026-11-21_08-15-00" src="https://github.com/user-attachments/assets/7a3de7f2-e302-4b63-b698-0a8e6f7a9ccd" />
+
 Bring Contracts mode back to life. Create contracts, save them, replay them and share them with other players, all from one simple launcher.
 
 *Contracts mode by Dadmehr47*
@@ -17,7 +19,7 @@ Bring Contracts mode back to life. Create contracts, save them, replay them and 
 
 - Hitman: Absolution (Steam, Windows)
 - The two hook files `dinput8.dll` and `hook.ini`.
-- Download (Windows-x64.zip) from the https://github.com/LennardF1989/Hitman-5-Server/releases/tag/v1.2.2 of the original project and copy both `dinput8.dll` and `hook.ini` into your game folder (the one that contains `HMA.exe`).
+- Download (H.zip) from the https://github.com/LennardF1989/Hitman-5-Server/releases/download/v1.2.2/Hook.zip of the original project and copy both `dinput8.dll` and `hook.ini` into your game folder (the one that contains `HMA.exe`).
 - You do **not** need the original server program. This launcher replaces it.
 
 ## How to use
